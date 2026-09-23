@@ -7,4 +7,4 @@ https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
+hagezi/dns-blocklists@latest/ips/doh.txt
